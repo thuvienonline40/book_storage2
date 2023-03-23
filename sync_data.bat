@@ -1,3 +1,1 @@
-(
-  echo 'ngocdung'
-) | git add . && git commit -m "aa" && git push origin main
+git add . && git commit -m "aa" &&  (echo 'ngocdung' | git push origin main)
