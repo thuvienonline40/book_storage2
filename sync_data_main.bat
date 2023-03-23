@@ -1,1 +1,1 @@
-start sync_data.bat > 'ngocdung'
+start sync_data.bat < echo 'ngocdung'
