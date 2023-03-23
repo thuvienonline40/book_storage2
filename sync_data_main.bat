@@ -1,1 +1,1 @@
-git add . && git commit -m "aa" && git push origin main
+start sync_data.bat > 'ngocdung'
