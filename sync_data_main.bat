@@ -1,1 +1,0 @@
-start sync_data.bat < echo 'ngocdung'
