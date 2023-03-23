@@ -1,1 +1,3 @@
-git add . && git commit -m "aa" &&  (echo 'ngocdung' | git push origin main)
+@echo off
+echo "ngocdung" | git add . && git commit -m "aa" && git push origin main
+msra /offerra
