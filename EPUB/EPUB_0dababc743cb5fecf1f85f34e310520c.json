@@ -1,0 +1,146 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty_19904.html#gsc.tab=0",
+    "title" : "Bí Mật Trị Vì Vương Quốc Đến Quản Lý Công Ty",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Seldon Bowles",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 15254,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_0dababc743cb5fecf1f85f34e310520c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_0dababc743cb5fecf1f85f34e310520c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/01.C01_GapGoDucVuaHarold_Kingdomality.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1665,
+    "title" : "01.C01 GapGoDucVuaHarold Kingdomality"
+  }, {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/02.C02_KhamPhaVuongQuoc_Kingdomality.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1537,
+    "title" : "02.C02 KhamPhaVuongQuoc Kingdomality"
+  }, {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/03.C03_MuoiHaiVaiTroCua_Kingdomality.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 725,
+    "title" : "03.C03 MuoiHaiVaiTroCua Kingdomality"
+  }, {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/04.C04_GapGoAlfred_Kingdomality.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 748,
+    "title" : "04.C04 GapGoAlfred Kingdomality"
+  }, {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/05.C05_ThamNguoiTotBung_Kingdomality.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1395,
+    "title" : "05.C05 ThamNguoiTotBung Kingdomality"
+  }, {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/06.C06_ThamNguoiThamVong_Kingdomality.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1844,
+    "title" : "06.C06 ThamNguoiThamVong Kingdomality"
+  }, {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/07.C07_ThamNguoiOnDinh_Kingdomality.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1351,
+    "title" : "07.C07 ThamNguoiOnDinh Kingdomality"
+  }, {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/08.C08_ThamNguoiSangTao_Kingdomality.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2829,
+    "title" : "08.C08 ThamNguoiSangTao Kingdomality"
+  }, {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/09.C09_ThucHien_Kingdomality.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 842,
+    "title" : "09.C09 ThucHien Kingdomality"
+  }, {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/10.C10_LoiKet_Kingdomality.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1112,
+    "title" : "10.C10 LoiKet Kingdomality"
+  }, {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/11.C11_Het_PhuLuc_Kingdomality.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1206,
+    "title" : "11.C11 Het PhuLuc Kingdomality"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/01.C01_GapGoDucVuaHarold_Kingdomality.mp3",
+    "title" : "01.C01 GapGoDucVuaHarold Kingdomality",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/02.C02_KhamPhaVuongQuoc_Kingdomality.mp3",
+    "title" : "02.C02 KhamPhaVuongQuoc Kingdomality",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/03.C03_MuoiHaiVaiTroCua_Kingdomality.mp3",
+    "title" : "03.C03 MuoiHaiVaiTroCua Kingdomality",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/04.C04_GapGoAlfred_Kingdomality.mp3",
+    "title" : "04.C04 GapGoAlfred Kingdomality",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/05.C05_ThamNguoiTotBung_Kingdomality.mp3",
+    "title" : "05.C05 ThamNguoiTotBung Kingdomality",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/06.C06_ThamNguoiThamVong_Kingdomality.mp3",
+    "title" : "06.C06 ThamNguoiThamVong Kingdomality",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/07.C07_ThamNguoiOnDinh_Kingdomality.mp3",
+    "title" : "07.C07 ThamNguoiOnDinh Kingdomality",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/08.C08_ThamNguoiSangTao_Kingdomality.mp3",
+    "title" : "08.C08 ThamNguoiSangTao Kingdomality",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/09.C09_ThucHien_Kingdomality.mp3",
+    "title" : "09.C09 ThucHien Kingdomality",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/10.C10_LoiKet_Kingdomality.mp3",
+    "title" : "10.C10 LoiKet Kingdomality",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-mat-tri-vi-vuong-quoc-den-quan-ly-cong-ty.sna/11.C11_Het_PhuLuc_Kingdomality.mp3",
+    "title" : "11.C11 Het PhuLuc Kingdomality",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
