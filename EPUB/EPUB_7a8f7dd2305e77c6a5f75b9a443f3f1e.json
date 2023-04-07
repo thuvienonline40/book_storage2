@@ -1,0 +1,286 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/buoc-dau-hoc-phat_19897.html",
+    "title" : "Bước Đầu Học Phật",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Thanh Từ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 37891,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_7a8f7dd2305e77c6a5f75b9a443f3f1e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_7a8f7dd2305e77c6a5f75b9a443f3f1e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 171,
+    "title" : "00 Loi Dau Sach"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1998,
+    "title" : "01 Dao Phat-Tam Qui -TM"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1429,
+    "title" : "02 Ngu gioi- Di Chua Le Phat-D.Uy"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1466,
+    "title" : "03 Sam hoi- Cung duong Tam Bao- Phuong"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 756,
+    "title" : "04 Phat Giao do sanh - HH"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1628,
+    "title" : "05 Luan hoi - HH"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1277,
+    "title" : "06 Tam doc- Ng My"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 710,
+    "title" : "07 Tu bi - Ng My"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1478,
+    "title" : "08 Me tin Chanh tin - HH"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 897,
+    "title" : "09 Toi phuoc - HH"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1884,
+    "title" : "11 Giac ngo phap gi ung dung tu ngu thua- Phuong"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3249,
+    "title" : "12 Tinh than giac ngo cua dao Phat qua ngay le Vu Lan-Ng My"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 985,
+    "title" : "13 Phap tu can ban cua Phat tu-HH"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1141,
+    "title" : "14 Tu trong moi hoan canh-HH"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1105,
+    "title" : "15 Hoa sen trong bun -HH"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1078,
+    "title" : "16 Bo Tat so nhan chung sanh so qua-Phuong"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2077,
+    "title" : "17 Chap la goc cua dau tranh la nguon dau kho-Phuong"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1602,
+    "title" : "18 Cot loi cua dao Phat - HH"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1395,
+    "title" : "19 Chu TUC trong Phat giao Dai thua - TM"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1070,
+    "title" : "20 Thay than gia doi co phaiquan niem chan doi khong- Uy"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 989,
+    "title" : "21 So mang nghiep bao Dong hay khac- Uy"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 294,
+    "title" : "22 Phat la gi- TM"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5260,
+    "title" : "buoc-dau-23"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 762,
+    "title" : "25 Hoc Phat bang cach nao - HH"
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3190,
+    "title" : "26 Lam sao Tu theo Phat-HH"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-01.mp3",
+    "title" : "00 Loi Dau Sach",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-02.mp3",
+    "title" : "01 Dao Phat-Tam Qui -TM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-03.mp3",
+    "title" : "02 Ngu gioi- Di Chua Le Phat-D.Uy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-04.mp3",
+    "title" : "03 Sam hoi- Cung duong Tam Bao- Phuong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-05.mp3",
+    "title" : "04 Phat Giao do sanh - HH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-06.mp3",
+    "title" : "05 Luan hoi - HH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-07.mp3",
+    "title" : "06 Tam doc- Ng My",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-08.mp3",
+    "title" : "07 Tu bi - Ng My",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-09.mp3",
+    "title" : "08 Me tin Chanh tin - HH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-10.mp3",
+    "title" : "09 Toi phuoc - HH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-11.mp3",
+    "title" : "11 Giac ngo phap gi ung dung tu ngu thua- Phuong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-12.mp3",
+    "title" : "12 Tinh than giac ngo cua dao Phat qua ngay le Vu Lan-Ng My",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-13.mp3",
+    "title" : "13 Phap tu can ban cua Phat tu-HH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-14.mp3",
+    "title" : "14 Tu trong moi hoan canh-HH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-15.mp3",
+    "title" : "15 Hoa sen trong bun -HH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-16.mp3",
+    "title" : "16 Bo Tat so nhan chung sanh so qua-Phuong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-17.mp3",
+    "title" : "17 Chap la goc cua dau tranh la nguon dau kho-Phuong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-18.mp3",
+    "title" : "18 Cot loi cua dao Phat - HH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-19.mp3",
+    "title" : "19 Chu TUC trong Phat giao Dai thua - TM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-20.mp3",
+    "title" : "20 Thay than gia doi co phaiquan niem chan doi khong- Uy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-21.mp3",
+    "title" : "21 So mang nghiep bao Dong hay khac- Uy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-22.mp3",
+    "title" : "22 Phat la gi- TM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-23.mp3",
+    "title" : "buoc-dau-23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-24.mp3",
+    "title" : "25 Hoc Phat bang cach nao - HH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-dau-23/buoc-dau-25.mp3",
+    "title" : "26 Lam sao Tu theo Phat-HH",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
