@@ -1,0 +1,136 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vat-nang-sau-he_19780.html",
+    "title" : "Vạt Nắng Sau Hè",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chu Sa Lan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 17347,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_61b0741027ae49b82651668e6c68cc08.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_61b0741027ae49b82651668e6c68cc08.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vat-nang-03/vat-nang-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1692,
+    "title" : "vat-nang-01"
+  }, {
+    "href" : "https://archive.org/download/vat-nang-03/vat-nang-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1549,
+    "title" : "vat-nang-02"
+  }, {
+    "href" : "https://archive.org/download/vat-nang-03/vat-nang-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2112,
+    "title" : "vat-nang-03"
+  }, {
+    "href" : "https://archive.org/download/vat-nang-03/vat-nang-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1308,
+    "title" : "vat-nang-04"
+  }, {
+    "href" : "https://archive.org/download/vat-nang-03/vat-nang-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1995,
+    "title" : "vat-nang-05"
+  }, {
+    "href" : "https://archive.org/download/vat-nang-03/vat-nang-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1066,
+    "title" : "vat-nang-06"
+  }, {
+    "href" : "https://archive.org/download/vat-nang-03/vat-nang-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1829,
+    "title" : "vat-nang-07"
+  }, {
+    "href" : "https://archive.org/download/vat-nang-03/vat-nang-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1757,
+    "title" : "vat-nang-08"
+  }, {
+    "href" : "https://archive.org/download/vat-nang-03/vat-nang-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2040,
+    "title" : "vat-nang-09"
+  }, {
+    "href" : "https://archive.org/download/vat-nang-03/vat-nang-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1999,
+    "title" : "vat-nang-10"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vat-nang-03/vat-nang-01.mp3",
+    "title" : "vat-nang-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vat-nang-03/vat-nang-02.mp3",
+    "title" : "vat-nang-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vat-nang-03/vat-nang-03.mp3",
+    "title" : "vat-nang-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vat-nang-03/vat-nang-04.mp3",
+    "title" : "vat-nang-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vat-nang-03/vat-nang-05.mp3",
+    "title" : "vat-nang-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vat-nang-03/vat-nang-06.mp3",
+    "title" : "vat-nang-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vat-nang-03/vat-nang-07.mp3",
+    "title" : "vat-nang-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vat-nang-03/vat-nang-08.mp3",
+    "title" : "vat-nang-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vat-nang-03/vat-nang-09.mp3",
+    "title" : "vat-nang-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vat-nang-03/vat-nang-10.mp3",
+    "title" : "vat-nang-10",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

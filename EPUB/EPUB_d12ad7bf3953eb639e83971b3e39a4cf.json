@@ -1,0 +1,66 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chuyen-nho-sai-gon_19686.html",
+    "title" : "Chuyện Nhỏ Sài Gòn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đàm Hà Phú",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 11229,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_d12ad7bf3953eb639e83971b3e39a4cf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_d12ad7bf3953eb639e83971b3e39a4cf.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chuyen-nho-1/chuyen-nho-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "chuyen-nho-1"
+  }, {
+    "href" : "https://archive.org/download/chuyen-nho-1/chuyen-nho-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "chuyen-nho-2"
+  }, {
+    "href" : "https://archive.org/download/chuyen-nho-1/chuyen-nho-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3429,
+    "title" : "chuyen-nho-3"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chuyen-nho-1/chuyen-nho-1.mp3",
+    "title" : "chuyen-nho-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-nho-1/chuyen-nho-2.mp3",
+    "title" : "chuyen-nho-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-nho-1/chuyen-nho-3.mp3",
+    "title" : "chuyen-nho-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

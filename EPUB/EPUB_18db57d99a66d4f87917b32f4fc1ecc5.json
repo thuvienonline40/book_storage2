@@ -1,0 +1,266 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ba-dem-toi-loi_19601.html",
+    "title" : "Ba Đêm Tội Lỗi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Anne Mallory",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 33904,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_18db57d99a66d4f87917b32f4fc1ecc5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_18db57d99a66d4f87917b32f4fc1ecc5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL001%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Gi%E1%BB%9Bi%20Thi%E1%BB%87u.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 84,
+    "title" : "SNNL001 ― Ba Đêm Tội Lỗi ― Giới Thiệu"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL002%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1201,
+    "title" : "SNNL002 ― Ba Đêm Tội Lỗi ― Chương 1"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL003%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1198,
+    "title" : "SNNL003 ― Ba Đêm Tội Lỗi ― Chương 2"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL004%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1719,
+    "title" : "SNNL004 ― Ba Đêm Tội Lỗi ― Chương 3"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL005%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1441,
+    "title" : "SNNL005 ― Ba Đêm Tội Lỗi ― Chương 4"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL006%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1434,
+    "title" : "SNNL006 ― Ba Đêm Tội Lỗi ― Chương 5"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL007%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1994,
+    "title" : "SNNL007 ― Ba Đêm Tội Lỗi ― Chương 6"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL008%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2151,
+    "title" : "SNNL008 ― Ba Đêm Tội Lỗi ― Chương 7"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL009%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1689,
+    "title" : "SNNL009 ― Ba Đêm Tội Lỗi ― Chương 8"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL010%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2159,
+    "title" : "SNNL010 ― Ba Đêm Tội Lỗi ― Chương 9"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL011%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1639,
+    "title" : "SNNL011 ― Ba Đêm Tội Lỗi ― Chương 10"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL012%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1366,
+    "title" : "SNNL012 ― Ba Đêm Tội Lỗi ― Chương 11"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL013%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1417,
+    "title" : "SNNL013 ― Ba Đêm Tội Lỗi ― Chương 12"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL014%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1153,
+    "title" : "SNNL014 ― Ba Đêm Tội Lỗi ― Chương 13"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL015%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2014.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1850,
+    "title" : "SNNL015 ― Ba Đêm Tội Lỗi ― Chương 14"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL016%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2015.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1464,
+    "title" : "SNNL016 ― Ba Đêm Tội Lỗi ― Chương 15"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL017%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2016.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 915,
+    "title" : "SNNL017 ― Ba Đêm Tội Lỗi ― Chương 16"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL018%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2017.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1448,
+    "title" : "SNNL018 ― Ba Đêm Tội Lỗi ― Chương 17"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL019%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1161,
+    "title" : "SNNL019 ― Ba Đêm Tội Lỗi ― Chương 18"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL020%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1689,
+    "title" : "SNNL020 ― Ba Đêm Tội Lỗi ― Chương 19"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL021%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2020.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1105,
+    "title" : "SNNL021 ― Ba Đêm Tội Lỗi ― Chương 20"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL022%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2021.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2380,
+    "title" : "SNNL022 ― Ba Đêm Tội Lỗi ― Chương 21"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL023%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2022.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1247,
+    "title" : "SNNL023 ― Ba Đêm Tội Lỗi ― Chương 22"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL001%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Gi%E1%BB%9Bi%20Thi%E1%BB%87u.mp3",
+    "title" : "SNNL001 ― Ba Đêm Tội Lỗi ― Giới Thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL002%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%201.mp3",
+    "title" : "SNNL002 ― Ba Đêm Tội Lỗi ― Chương 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL003%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202.mp3",
+    "title" : "SNNL003 ― Ba Đêm Tội Lỗi ― Chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL004%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%203.mp3",
+    "title" : "SNNL004 ― Ba Đêm Tội Lỗi ― Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL005%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%204.mp3",
+    "title" : "SNNL005 ― Ba Đêm Tội Lỗi ― Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL006%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%205.mp3",
+    "title" : "SNNL006 ― Ba Đêm Tội Lỗi ― Chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL007%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%206.mp3",
+    "title" : "SNNL007 ― Ba Đêm Tội Lỗi ― Chương 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL008%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%207.mp3",
+    "title" : "SNNL008 ― Ba Đêm Tội Lỗi ― Chương 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL009%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%208.mp3",
+    "title" : "SNNL009 ― Ba Đêm Tội Lỗi ― Chương 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL010%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%209.mp3",
+    "title" : "SNNL010 ― Ba Đêm Tội Lỗi ― Chương 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL011%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2010.mp3",
+    "title" : "SNNL011 ― Ba Đêm Tội Lỗi ― Chương 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL012%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2011.mp3",
+    "title" : "SNNL012 ― Ba Đêm Tội Lỗi ― Chương 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL013%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2012.mp3",
+    "title" : "SNNL013 ― Ba Đêm Tội Lỗi ― Chương 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL014%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2013.mp3",
+    "title" : "SNNL014 ― Ba Đêm Tội Lỗi ― Chương 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL015%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2014.mp3",
+    "title" : "SNNL015 ― Ba Đêm Tội Lỗi ― Chương 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL016%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2015.mp3",
+    "title" : "SNNL016 ― Ba Đêm Tội Lỗi ― Chương 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL017%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2016.mp3",
+    "title" : "SNNL017 ― Ba Đêm Tội Lỗi ― Chương 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL018%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2017.mp3",
+    "title" : "SNNL018 ― Ba Đêm Tội Lỗi ― Chương 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL019%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2018.mp3",
+    "title" : "SNNL019 ― Ba Đêm Tội Lỗi ― Chương 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL020%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2019.mp3",
+    "title" : "SNNL020 ― Ba Đêm Tội Lỗi ― Chương 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL021%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2020.mp3",
+    "title" : "SNNL021 ― Ba Đêm Tội Lỗi ― Chương 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL022%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2021.mp3",
+    "title" : "SNNL022 ― Ba Đêm Tội Lỗi ― Chương 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ba-Dem-Toi-Loi/SNNL023%20%E2%80%95%20Ba%20%C4%90%C3%AAm%20T%E1%BB%99i%20L%E1%BB%97i%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2022.mp3",
+    "title" : "SNNL023 ― Ba Đêm Tội Lỗi ― Chương 22",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

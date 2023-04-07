@@ -1,0 +1,66 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mo-yeu_19435.html",
+    "title" : "Mơ Yêu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khánh Vân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 21971,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_8afea847894f6d0e80b90400f59392df.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_8afea847894f6d0e80b90400f59392df.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mo-3_20211128/Mo1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7264,
+    "title" : "Mo1"
+  }, {
+    "href" : "https://archive.org/download/mo-3_20211128/Mo2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7264,
+    "title" : "Mo2"
+  }, {
+    "href" : "https://archive.org/download/mo-3_20211128/Mo3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7443,
+    "title" : "Mo3"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mo-3_20211128/Mo1.mp3",
+    "title" : "Mo1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-3_20211128/Mo2.mp3",
+    "title" : "Mo2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-3_20211128/Mo3.mp3",
+    "title" : "Mo3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

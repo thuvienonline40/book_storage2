@@ -1,0 +1,66 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hoang-tu-ham-doc-sach_19809.html",
+    "title" : "Hoàng Tử Ham Đọc Sách",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Đồng Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 5877,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_71ee6b612441d74cf75b2a7b41a8abf8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_71ee6b612441d74cf75b2a7b41a8abf8.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hoang-tu-ham-doc-sach.sna/HOANG_TU_HAM_DOC_SACH_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1901,
+    "title" : "HOANG TU HAM DOC SACH 01"
+  }, {
+    "href" : "https://archive.org/download/hoang-tu-ham-doc-sach.sna/HOANG_TU_HAM_DOC_SACH_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2229,
+    "title" : "HOANG TU HAM DOC SACH 02"
+  }, {
+    "href" : "https://archive.org/download/hoang-tu-ham-doc-sach.sna/HOANG_TU_HAM_DOC_SACH_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1747,
+    "title" : "HOANG TU HAM DOC SACH 03"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hoang-tu-ham-doc-sach.sna/HOANG_TU_HAM_DOC_SACH_01.mp3",
+    "title" : "HOANG TU HAM DOC SACH 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tu-ham-doc-sach.sna/HOANG_TU_HAM_DOC_SACH_02.mp3",
+    "title" : "HOANG TU HAM DOC SACH 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoang-tu-ham-doc-sach.sna/HOANG_TU_HAM_DOC_SACH_03.mp3",
+    "title" : "HOANG TU HAM DOC SACH 03",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/buoc-toi-thanh-thoi_19276.html",
+    "title" : "Bước Tới Thảnh Thơi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 16127,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_7610c9e7295d2745f937cfc441a4bd51.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_7610c9e7295d2745f937cfc441a4bd51.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/buoc-toi-4/buoc-toi-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3979,
+    "title" : "01-Boi-Toi-Thanh-Thoi-P1-3"
+  }, {
+    "href" : "https://archive.org/download/buoc-toi-4/buoc-toi-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3139,
+    "title" : "02-Phan-Ba-Tiep-Theo"
+  }, {
+    "href" : "https://archive.org/download/buoc-toi-4/buoc-toi-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1190,
+    "title" : "03-Phan-Thu-Tu_Loi-Canh-Giac"
+  }, {
+    "href" : "https://archive.org/download/buoc-toi-4/buoc-toi-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4170,
+    "title" : "04-Noi-Voi-Nguoi-Xuat-Gia-Tre-Tuoi"
+  }, {
+    "href" : "https://archive.org/download/buoc-toi-4/buoc-toi-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3649,
+    "title" : "05-Nguon-Goc_Noi-Dung"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/buoc-toi-4/buoc-toi-1.mp3",
+    "title" : "01-Boi-Toi-Thanh-Thoi-P1-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-toi-4/buoc-toi-2.mp3",
+    "title" : "02-Phan-Ba-Tiep-Theo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-toi-4/buoc-toi-3.mp3",
+    "title" : "03-Phan-Thu-Tu_Loi-Canh-Giac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-toi-4/buoc-toi-4.mp3",
+    "title" : "04-Noi-Voi-Nguoi-Xuat-Gia-Tre-Tuoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buoc-toi-4/buoc-toi-5.mp3",
+    "title" : "05-Nguon-Goc_Noi-Dung",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,56 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chua-ruoi_19362.html",
+    "title" : "Chúa Ruồi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "William Golding",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 21399,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_333eb794ad00144194e3240da57ee299.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_333eb794ad00144194e3240da57ee299.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chua-ruoi-phan-2/Chua%20Ruoi%20-%20Phan%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9899,
+    "title" : "CHÚA RUỒI / WILLIAM GOLDING / PHẦN 1 / AUDIOBOOK / ĐI và ĐỌC"
+  }, {
+    "href" : "https://archive.org/download/chua-ruoi-phan-2/Chua%20Ruoi%20-%20Phan%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11500,
+    "title" : "CHÚA RUỒI / WILLIAM GOLDING / PHẦN 2 (HẾT) / AUDIOBOOK / ĐI và ĐỌC"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chua-ruoi-phan-2/Chua%20Ruoi%20-%20Phan%201.mp3",
+    "title" : "CHÚA RUỒI / WILLIAM GOLDING / PHẦN 1 / AUDIOBOOK / ĐI và ĐỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chua-ruoi-phan-2/Chua%20Ruoi%20-%20Phan%202.mp3",
+    "title" : "CHÚA RUỒI / WILLIAM GOLDING / PHẦN 2 (HẾT) / AUDIOBOOK / ĐI và ĐỌC",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

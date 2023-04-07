@@ -1,0 +1,206 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bi-quyet-don-gian-hoa-cuoc-song_19787.html",
+    "title" : "Bí Quyết Đơn Giản Hóa Cuộc Sống",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Werner Tiki Kustenmacher",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 29592,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_815e610ae099468505301e2ed7edc479.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_815e610ae099468505301e2ed7edc479.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/01.Modau_BiQuyetDonGianHoaCuocSong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 928,
+    "title" : "01.Modau BiQuyetDonGianHoaCuocSong"
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/02.C01A_HC_DonGianHoaCacVatDung_BiQuyetDonGianHoaCuocSong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1918,
+    "title" : "02.C01A HC DonGianHoaCacVatDung BiQuyetDonGianHoaCuocSong"
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/03.C01B_HC_DonGianHoaCacVatDung_BiQuyetDonGianHoaCuocSong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 711,
+    "title" : "03.C01B HC DonGianHoaCacVatDung BiQuyetDonGianHoaCuocSong"
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/04.C02A_TangHaiCuaKimTuThapDoiBan_BiQuyetDonGianHoaCuocSong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1887,
+    "title" : "04.C02A TangHaiCuaKimTuThapDoiBan BiQuyetDonGianHoaCuocSong"
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/05.C02B_TangHaiCuaKimTuThapDoiBan_BiQuyetDonGianHoaCuocSong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2438,
+    "title" : "05.C02B TangHaiCuaKimTuThapDoiBan BiQuyetDonGianHoaCuocSong"
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/06.C03A_DonGianHoaThoiGian_BiQuyetDonGianHoaCuocSong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2272,
+    "title" : "06.C03A DonGianHoaThoiGian BiQuyetDonGianHoaCuocSong"
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/07.C03B_DonGianHoaThoiGian_BiQuyetDonGianHoaCuocSong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2532,
+    "title" : "07.C03B DonGianHoaThoiGian BiQuyetDonGianHoaCuocSong"
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/08.C03C_DonGianHoaThoiGian_BiQuyetDonGianHoaCuocSong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2188,
+    "title" : "08.C03C DonGianHoaThoiGian BiQuyetDonGianHoaCuocSong"
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/09.C04A_DonGianHoaSucKhoeCuaBan_BiQuyetDonGianHoaCuocSong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1785,
+    "title" : "09.C04A DonGianHoaSucKhoeCuaBan BiQuyetDonGianHoaCuocSong"
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/10.C04B_DonGianHoaSucKhoeCuaBan_BiQuyetDonGianHoaCuocSong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1922,
+    "title" : "10.C04B DonGianHoaSucKhoeCuaBan BiQuyetDonGianHoaCuocSong"
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/11.C05A_DonGianHoaCacMoiQuanHe_BiQuyetDonGianHoaCuocSong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1445,
+    "title" : "11.C05A DonGianHoaCacMoiQuanHe BiQuyetDonGianHoaCuocSong"
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/12.C05B_DonGianHoaCacMoiQuanHe_BiQuyetDonGianHoaCuocSong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1690,
+    "title" : "12.C05B DonGianHoaCacMoiQuanHe BiQuyetDonGianHoaCuocSong"
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/13.C06A_DonGianHoaQuanHeLuaDoi_BiQuyetDonGianHoaCuocSong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1658,
+    "title" : "13.C06A DonGianHoaQuanHeLuaDoi BiQuyetDonGianHoaCuocSong"
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/14.C06B_DonGianHoaQuanHeLuaDoi_BiQuyetDonGianHoaCuocSong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1080,
+    "title" : "14.C06B DonGianHoaQuanHeLuaDoi BiQuyetDonGianHoaCuocSong"
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/15.C07A_DonGianHoaBanThan_BiQuyetDonGianHoaCuocSong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2008,
+    "title" : "15.C07A DonGianHoaBanThan BiQuyetDonGianHoaCuocSong"
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/16.C07B_DonGianHoaBanThan_BiQuyetDonGianHoaCuocSong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2171,
+    "title" : "16.C07B DonGianHoaBanThan BiQuyetDonGianHoaCuocSong"
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/17.PhuLuc_HET_BiQuyetDonGianHoaCuocSong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 959,
+    "title" : "17.PhuLuc HET BiQuyetDonGianHoaCuocSong"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/01.Modau_BiQuyetDonGianHoaCuocSong.mp3",
+    "title" : "01.Modau BiQuyetDonGianHoaCuocSong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/02.C01A_HC_DonGianHoaCacVatDung_BiQuyetDonGianHoaCuocSong.mp3",
+    "title" : "02.C01A HC DonGianHoaCacVatDung BiQuyetDonGianHoaCuocSong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/03.C01B_HC_DonGianHoaCacVatDung_BiQuyetDonGianHoaCuocSong.mp3",
+    "title" : "03.C01B HC DonGianHoaCacVatDung BiQuyetDonGianHoaCuocSong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/04.C02A_TangHaiCuaKimTuThapDoiBan_BiQuyetDonGianHoaCuocSong.mp3",
+    "title" : "04.C02A TangHaiCuaKimTuThapDoiBan BiQuyetDonGianHoaCuocSong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/05.C02B_TangHaiCuaKimTuThapDoiBan_BiQuyetDonGianHoaCuocSong.mp3",
+    "title" : "05.C02B TangHaiCuaKimTuThapDoiBan BiQuyetDonGianHoaCuocSong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/06.C03A_DonGianHoaThoiGian_BiQuyetDonGianHoaCuocSong.mp3",
+    "title" : "06.C03A DonGianHoaThoiGian BiQuyetDonGianHoaCuocSong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/07.C03B_DonGianHoaThoiGian_BiQuyetDonGianHoaCuocSong.mp3",
+    "title" : "07.C03B DonGianHoaThoiGian BiQuyetDonGianHoaCuocSong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/08.C03C_DonGianHoaThoiGian_BiQuyetDonGianHoaCuocSong.mp3",
+    "title" : "08.C03C DonGianHoaThoiGian BiQuyetDonGianHoaCuocSong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/09.C04A_DonGianHoaSucKhoeCuaBan_BiQuyetDonGianHoaCuocSong.mp3",
+    "title" : "09.C04A DonGianHoaSucKhoeCuaBan BiQuyetDonGianHoaCuocSong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/10.C04B_DonGianHoaSucKhoeCuaBan_BiQuyetDonGianHoaCuocSong.mp3",
+    "title" : "10.C04B DonGianHoaSucKhoeCuaBan BiQuyetDonGianHoaCuocSong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/11.C05A_DonGianHoaCacMoiQuanHe_BiQuyetDonGianHoaCuocSong.mp3",
+    "title" : "11.C05A DonGianHoaCacMoiQuanHe BiQuyetDonGianHoaCuocSong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/12.C05B_DonGianHoaCacMoiQuanHe_BiQuyetDonGianHoaCuocSong.mp3",
+    "title" : "12.C05B DonGianHoaCacMoiQuanHe BiQuyetDonGianHoaCuocSong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/13.C06A_DonGianHoaQuanHeLuaDoi_BiQuyetDonGianHoaCuocSong.mp3",
+    "title" : "13.C06A DonGianHoaQuanHeLuaDoi BiQuyetDonGianHoaCuocSong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/14.C06B_DonGianHoaQuanHeLuaDoi_BiQuyetDonGianHoaCuocSong.mp3",
+    "title" : "14.C06B DonGianHoaQuanHeLuaDoi BiQuyetDonGianHoaCuocSong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/15.C07A_DonGianHoaBanThan_BiQuyetDonGianHoaCuocSong.mp3",
+    "title" : "15.C07A DonGianHoaBanThan BiQuyetDonGianHoaCuocSong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/16.C07B_DonGianHoaBanThan_BiQuyetDonGianHoaCuocSong.mp3",
+    "title" : "16.C07B DonGianHoaBanThan BiQuyetDonGianHoaCuocSong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-quyet-don-gian-hoa-cuoc-song.sna/17.PhuLuc_HET_BiQuyetDonGianHoaCuocSong.mp3",
+    "title" : "17.PhuLuc HET BiQuyetDonGianHoaCuocSong",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

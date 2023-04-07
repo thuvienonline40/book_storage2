@@ -1,0 +1,66 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/kinh-chiec-luoi-ai-an_19267.html",
+    "title" : "Kinh Chiếc Lưới Ái Ân",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 10125,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_837d9a924982c2c8990d20320a20e0c1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_837d9a924982c2c8990d20320a20e0c1.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chiec-luoi-1/chiec-luoi-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "chiec-luoi-1"
+  }, {
+    "href" : "https://archive.org/download/chiec-luoi-1/chiec-luoi-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "chiec-luoi-2"
+  }, {
+    "href" : "https://archive.org/download/chiec-luoi-1/chiec-luoi-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2925,
+    "title" : "chiec-luoi-3"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chiec-luoi-1/chiec-luoi-1.mp3",
+    "title" : "chiec-luoi-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-luoi-1/chiec-luoi-2.mp3",
+    "title" : "chiec-luoi-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-luoi-1/chiec-luoi-3.mp3",
+    "title" : "chiec-luoi-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,56 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mot-mai-tan-bien-giua-doi_19370.html",
+    "title" : "Một Mai Tan Biến Giữa Đời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "NamKoong In",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 5525,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_5b5dfd3bff1279ff8064a3c4d4516534.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_5b5dfd3bff1279ff8064a3c4d4516534.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mot-mai-1/mot-mai-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2815,
+    "title" : "mot-mai-1"
+  }, {
+    "href" : "https://archive.org/download/mot-mai-1/mot-mai-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2710,
+    "title" : "mot-mai-2"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mot-mai-1/mot-mai-1.mp3",
+    "title" : "mot-mai-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-mai-1/mot-mai-2.mp3",
+    "title" : "mot-mai-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

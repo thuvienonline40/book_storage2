@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dung-ngoi-cho-chet-trong-gio-bao_19873.html",
+    "title" : "Đừng Ngồi Chờ Chết Trong Gió Bão",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Giang Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 12060,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_e66330d5fa534dc51d743f342c29842d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_e66330d5fa534dc51d743f342c29842d.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dung-ngoi-1/dung-ngoi-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3171,
+    "title" : "dung-ngoi-1"
+  }, {
+    "href" : "https://archive.org/download/dung-ngoi-1/dung-ngoi-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2667,
+    "title" : "dung-ngoi-2"
+  }, {
+    "href" : "https://archive.org/download/dung-ngoi-1/dung-ngoi-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2919,
+    "title" : "dung-ngoi-3"
+  }, {
+    "href" : "https://archive.org/download/dung-ngoi-1/dung-ngoi-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3303,
+    "title" : "dung-ngoi-4"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dung-ngoi-1/dung-ngoi-1.mp3",
+    "title" : "dung-ngoi-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-ngoi-1/dung-ngoi-2.mp3",
+    "title" : "dung-ngoi-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-ngoi-1/dung-ngoi-3.mp3",
+    "title" : "dung-ngoi-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-ngoi-1/dung-ngoi-4.mp3",
+    "title" : "dung-ngoi-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

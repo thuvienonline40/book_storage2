@@ -1,0 +1,146 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dung-ban-tam-vi-chuyen-tien-bac_19634.html",
+    "title" : "Đừng Bận Tâm Vì Chuyện Tiền Bạc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Richard Carlson",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 26656,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_fe321b9161fb503ebf33ba8f4c4563ae.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_fe321b9161fb503ebf33ba8f4c4563ae.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/1.C01_05_DungBanTamViChuyenTienBac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1989,
+    "title" : "1.C01 05 DungBanTamViChuyenTienBac"
+  }, {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/10.C86_95_DungBanTamViChuyenTienBac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2745,
+    "title" : "10.C86 95 DungBanTamViChuyenTienBac"
+  }, {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/11.C96_100_DungBanTamViChuyenTienBac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1353,
+    "title" : "11.C96 100 DungBanTamViChuyenTienBac"
+  }, {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/2.C06_15_DungBanTamViChuyenTienBac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2269,
+    "title" : "2.C06 15 DungBanTamViChuyenTienBac"
+  }, {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/3.C16_25_DungBanTamViChuyenTienBac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2219,
+    "title" : "3.C16 25 DungBanTamViChuyenTienBac"
+  }, {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/4.C26_35_DungBanTamViChuyenTienBac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2365,
+    "title" : "4.C26 35 DungBanTamViChuyenTienBac"
+  }, {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/5.C36_45_DungBanTamViChuyenTienBac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2663,
+    "title" : "5.C36 45 DungBanTamViChuyenTienBac"
+  }, {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/6.C46_55_DungBanTamViChuyenTienBac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2682,
+    "title" : "6.C46 55 DungBanTamViChuyenTienBac"
+  }, {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/7.C56_65_DungBanTamViChuyenTienBac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2824,
+    "title" : "7.C56 65 DungBanTamViChuyenTienBac"
+  }, {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/8.C66_75_DungBanTamViChuyenTienBac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2938,
+    "title" : "8.C66 75 DungBanTamViChuyenTienBac"
+  }, {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/9.C76_85_DungBanTamViChuyenTienBac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2609,
+    "title" : "9.C76 85 DungBanTamViChuyenTienBac"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/1.C01_05_DungBanTamViChuyenTienBac.mp3",
+    "title" : "1.C01 05 DungBanTamViChuyenTienBac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/10.C86_95_DungBanTamViChuyenTienBac.mp3",
+    "title" : "10.C86 95 DungBanTamViChuyenTienBac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/11.C96_100_DungBanTamViChuyenTienBac.mp3",
+    "title" : "11.C96 100 DungBanTamViChuyenTienBac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/2.C06_15_DungBanTamViChuyenTienBac.mp3",
+    "title" : "2.C06 15 DungBanTamViChuyenTienBac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/3.C16_25_DungBanTamViChuyenTienBac.mp3",
+    "title" : "3.C16 25 DungBanTamViChuyenTienBac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/4.C26_35_DungBanTamViChuyenTienBac.mp3",
+    "title" : "4.C26 35 DungBanTamViChuyenTienBac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/5.C36_45_DungBanTamViChuyenTienBac.mp3",
+    "title" : "5.C36 45 DungBanTamViChuyenTienBac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/6.C46_55_DungBanTamViChuyenTienBac.mp3",
+    "title" : "6.C46 55 DungBanTamViChuyenTienBac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/7.C56_65_DungBanTamViChuyenTienBac.mp3",
+    "title" : "7.C56 65 DungBanTamViChuyenTienBac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/8.C66_75_DungBanTamViChuyenTienBac.mp3",
+    "title" : "8.C66 75 DungBanTamViChuyenTienBac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-ban-tam-vi-chuyen-tien-bac.sna/9.C76_85_DungBanTamViChuyenTienBac.mp3",
+    "title" : "9.C76 85 DungBanTamViChuyenTienBac",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,166 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tam-li-hoc-dam-dong_19624.html",
+    "title" : "Tâm Lí Học Đám Đông",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Gustave Le Bon",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 17095,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_8562ee579178e4178bf1308477f250d9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_8562ee579178e4178bf1308477f250d9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/Quyen011/Quyen01-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2496,
+    "title" : "Quyen01-1"
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen01-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2033,
+    "title" : "Quyen01-2"
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen01-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 960,
+    "title" : "Quyen01-3"
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen01-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 656,
+    "title" : "Quyen01-4"
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen02-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1735,
+    "title" : "Quyen02-1"
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen02-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1293,
+    "title" : "Quyen02-2"
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen02-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2182,
+    "title" : "Quyen02-3"
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen02-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1235,
+    "title" : "Quyen02-4"
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen03-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 382,
+    "title" : "Quyen03-1"
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen03-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 460,
+    "title" : "Quyen03-2"
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen03-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 743,
+    "title" : "Quyen03-3"
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen03-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 931,
+    "title" : "Quyen03-4"
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen03-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1989,
+    "title" : "Quyen03-5"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/Quyen011/Quyen01-1.mp3",
+    "title" : "Quyen01-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen01-2.mp3",
+    "title" : "Quyen01-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen01-3.mp3",
+    "title" : "Quyen01-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen01-4.mp3",
+    "title" : "Quyen01-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen02-1.mp3",
+    "title" : "Quyen02-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen02-2.mp3",
+    "title" : "Quyen02-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen02-3.mp3",
+    "title" : "Quyen02-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen02-4.mp3",
+    "title" : "Quyen02-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen03-1.mp3",
+    "title" : "Quyen03-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen03-2.mp3",
+    "title" : "Quyen03-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen03-3.mp3",
+    "title" : "Quyen03-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen03-4.mp3",
+    "title" : "Quyen03-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Quyen011/Quyen03-5.mp3",
+    "title" : "Quyen03-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

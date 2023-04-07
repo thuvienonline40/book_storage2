@@ -1,0 +1,66 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/minh-sinh-ra-dau-phai-de-buon_19431.html",
+    "title" : "Mình Sinh Ra Đâu Phải Để Buồn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hamlet Trương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 5834,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_4a5e74ba8012eea4606c844d9399e882.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_4a5e74ba8012eea4606c844d9399e882.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/minh-sinh-ra-dau-phai-de-buon.sna/MINH_SINH_RA_DAU_PHAI_DE_BUON_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2270,
+    "title" : "MINH SINH RA DAU PHAI DE BUON 01"
+  }, {
+    "href" : "https://archive.org/download/minh-sinh-ra-dau-phai-de-buon.sna/MINH_SINH_RA_DAU_PHAI_DE_BUON_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1363,
+    "title" : "MINH SINH RA DAU PHAI DE BUON 02"
+  }, {
+    "href" : "https://archive.org/download/minh-sinh-ra-dau-phai-de-buon.sna/MINH_SINH_RA_DAU_PHAI_DE_BUON_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2201,
+    "title" : "MINH SINH RA DAU PHAI DE BUON 03"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/minh-sinh-ra-dau-phai-de-buon.sna/MINH_SINH_RA_DAU_PHAI_DE_BUON_01.mp3",
+    "title" : "MINH SINH RA DAU PHAI DE BUON 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/minh-sinh-ra-dau-phai-de-buon.sna/MINH_SINH_RA_DAU_PHAI_DE_BUON_02.mp3",
+    "title" : "MINH SINH RA DAU PHAI DE BUON 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/minh-sinh-ra-dau-phai-de-buon.sna/MINH_SINH_RA_DAU_PHAI_DE_BUON_03.mp3",
+    "title" : "MINH SINH RA DAU PHAI DE BUON 03",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/uy-nam-vuong_19785.html",
+    "title" : "Uy Nam Vương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phạm Vĩnh Lộc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 3192,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_5e20197dba316cea21a934b462528146.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_5e20197dba316cea21a934b462528146.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/uy-nam-vu-o-ng-tro-n-bo/UY%20NAM%20VU%CC%9BO%CC%9BNG%20TRO%CC%A3N%20BO%CC%A3%CC%82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3192,
+    "title" : "UY NAM VƯƠNG TRỌN BỘ"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/uy-nam-vu-o-ng-tro-n-bo/UY%20NAM%20VU%CC%9BO%CC%9BNG%20TRO%CC%A3N%20BO%CC%A3%CC%82.mp3",
+    "title" : "UY NAM VƯƠNG TRỌN BỘ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

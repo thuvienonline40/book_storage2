@@ -1,0 +1,126 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/200-cach-hanh-xu-trong-cuoc-song_19547.html",
+    "title" : "200 Cách Hành Xử Trong Cuộc Sống",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phúc Điền Kiến",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 15449,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_d26f52ab66abed38deab14701b763a2b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_d26f52ab66abed38deab14701b763a2b.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/200-cach-hanh-xu-trong-cuoc-song.sna/200_CACH_HANH_XU-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2552,
+    "title" : "200 CACH HANH XU-01"
+  }, {
+    "href" : "https://archive.org/download/200-cach-hanh-xu-trong-cuoc-song.sna/200_CACH_HANH_XU-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1830,
+    "title" : "200 CACH HANH XU-02"
+  }, {
+    "href" : "https://archive.org/download/200-cach-hanh-xu-trong-cuoc-song.sna/200_CACH_HANH_XU-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1707,
+    "title" : "200 CACH HANH XU-03"
+  }, {
+    "href" : "https://archive.org/download/200-cach-hanh-xu-trong-cuoc-song.sna/200_CACH_HANH_XU-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1424,
+    "title" : "200 CACH HANH XU-04"
+  }, {
+    "href" : "https://archive.org/download/200-cach-hanh-xu-trong-cuoc-song.sna/200_CACH_HANH_XU-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1922,
+    "title" : "200 CACH HANH XU-05"
+  }, {
+    "href" : "https://archive.org/download/200-cach-hanh-xu-trong-cuoc-song.sna/200_CACH_HANH_XU-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1863,
+    "title" : "200 CACH HANH XU-06"
+  }, {
+    "href" : "https://archive.org/download/200-cach-hanh-xu-trong-cuoc-song.sna/200_CACH_HANH_XU-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1182,
+    "title" : "200 CACH HANH XU-07"
+  }, {
+    "href" : "https://archive.org/download/200-cach-hanh-xu-trong-cuoc-song.sna/200_CACH_HANH_XU-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1971,
+    "title" : "200 CACH HANH XU-08"
+  }, {
+    "href" : "https://archive.org/download/200-cach-hanh-xu-trong-cuoc-song.sna/200_CACH_HANH_XU-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 998,
+    "title" : "200 CACH HANH XU-09"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/200-cach-hanh-xu-trong-cuoc-song.sna/200_CACH_HANH_XU-01.mp3",
+    "title" : "200 CACH HANH XU-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/200-cach-hanh-xu-trong-cuoc-song.sna/200_CACH_HANH_XU-02.mp3",
+    "title" : "200 CACH HANH XU-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/200-cach-hanh-xu-trong-cuoc-song.sna/200_CACH_HANH_XU-03.mp3",
+    "title" : "200 CACH HANH XU-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/200-cach-hanh-xu-trong-cuoc-song.sna/200_CACH_HANH_XU-04.mp3",
+    "title" : "200 CACH HANH XU-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/200-cach-hanh-xu-trong-cuoc-song.sna/200_CACH_HANH_XU-05.mp3",
+    "title" : "200 CACH HANH XU-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/200-cach-hanh-xu-trong-cuoc-song.sna/200_CACH_HANH_XU-06.mp3",
+    "title" : "200 CACH HANH XU-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/200-cach-hanh-xu-trong-cuoc-song.sna/200_CACH_HANH_XU-07.mp3",
+    "title" : "200 CACH HANH XU-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/200-cach-hanh-xu-trong-cuoc-song.sna/200_CACH_HANH_XU-08.mp3",
+    "title" : "200 CACH HANH XU-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/200-cach-hanh-xu-trong-cuoc-song.sna/200_CACH_HANH_XU-09.mp3",
+    "title" : "200 CACH HANH XU-09",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

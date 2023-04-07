@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/minh-la-ca-viec-cua-minh-la-boi_19454.html",
+    "title" : "Mình Là Cá, Việc Của Mình Là Bơi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Takeshi Furukawa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 16070,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_812243192d2297cf3ffbdd6ba1e2c5a9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_812243192d2297cf3ffbdd6ba1e2c5a9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/minh-la-ca-viec-cua-minh-la-boi.sna/sachnoi.app%20-%20Sach%20noi%20-%20Minh%20la%20ca%20viec%20cua%20minh%20la%20boi%20-%20Phan%201.webm",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2514,
+    "title" : "sachnoi.app - Sach noi - Minh la ca viec cua minh la boi - Phan 1"
+  }, {
+    "href" : "https://archive.org/download/minh-la-ca-viec-cua-minh-la-boi.sna/sachnoi.app%20-%20Sach%20noi%20-%20Minh%20la%20ca%20viec%20cua%20minh%20la%20boi%20-%20Phan%202.webm",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2532,
+    "title" : "sachnoi.app - Sach noi - Minh la ca viec cua minh la boi - Phan 2"
+  }, {
+    "href" : "https://archive.org/download/minh-la-ca-viec-cua-minh-la-boi.sna/sachnoi.app%20-%20Sach%20noi%20-%20Minh%20la%20ca%20viec%20cua%20minh%20la%20boi%20-%20Phan%203.webm",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2631,
+    "title" : "sachnoi.app - Sach noi - Minh la ca viec cua minh la boi - Phan 3"
+  }, {
+    "href" : "https://archive.org/download/minh-la-ca-viec-cua-minh-la-boi.sna/sachnoi.app%20-%20Sach%20noi%20-%20Minh%20la%20ca%20viec%20cua%20minh%20la%20boi%20-%20Phan%204.webm",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2626,
+    "title" : "sachnoi.app - Sach noi - Minh la ca viec cua minh la boi - Phan 4"
+  }, {
+    "href" : "https://archive.org/download/minh-la-ca-viec-cua-minh-la-boi.sna/sachnoi.app%20-%20Sach%20noi%20-%20Minh%20la%20ca%20viec%20cua%20minh%20la%20boi%20-%20Phan%205.webm",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2499,
+    "title" : "sachnoi.app - Sach noi - Minh la ca viec cua minh la boi - Phan 5"
+  }, {
+    "href" : "https://archive.org/download/minh-la-ca-viec-cua-minh-la-boi.sna/sachnoi.app%20-%20Sach%20noi%20-%20Minh%20la%20ca%20viec%20cua%20minh%20la%20boi%20-%20Phan%206.webm",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3268,
+    "title" : "sachnoi.app - Sach noi - Minh la ca viec cua minh la boi - Phan 6"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/minh-la-ca-viec-cua-minh-la-boi.sna/sachnoi.app%20-%20Sach%20noi%20-%20Minh%20la%20ca%20viec%20cua%20minh%20la%20boi%20-%20Phan%201.webm",
+    "title" : "sachnoi.app - Sach noi - Minh la ca viec cua minh la boi - Phan 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/minh-la-ca-viec-cua-minh-la-boi.sna/sachnoi.app%20-%20Sach%20noi%20-%20Minh%20la%20ca%20viec%20cua%20minh%20la%20boi%20-%20Phan%202.webm",
+    "title" : "sachnoi.app - Sach noi - Minh la ca viec cua minh la boi - Phan 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/minh-la-ca-viec-cua-minh-la-boi.sna/sachnoi.app%20-%20Sach%20noi%20-%20Minh%20la%20ca%20viec%20cua%20minh%20la%20boi%20-%20Phan%203.webm",
+    "title" : "sachnoi.app - Sach noi - Minh la ca viec cua minh la boi - Phan 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/minh-la-ca-viec-cua-minh-la-boi.sna/sachnoi.app%20-%20Sach%20noi%20-%20Minh%20la%20ca%20viec%20cua%20minh%20la%20boi%20-%20Phan%204.webm",
+    "title" : "sachnoi.app - Sach noi - Minh la ca viec cua minh la boi - Phan 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/minh-la-ca-viec-cua-minh-la-boi.sna/sachnoi.app%20-%20Sach%20noi%20-%20Minh%20la%20ca%20viec%20cua%20minh%20la%20boi%20-%20Phan%205.webm",
+    "title" : "sachnoi.app - Sach noi - Minh la ca viec cua minh la boi - Phan 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/minh-la-ca-viec-cua-minh-la-boi.sna/sachnoi.app%20-%20Sach%20noi%20-%20Minh%20la%20ca%20viec%20cua%20minh%20la%20boi%20-%20Phan%206.webm",
+    "title" : "sachnoi.app - Sach noi - Minh la ca viec cua minh la boi - Phan 6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

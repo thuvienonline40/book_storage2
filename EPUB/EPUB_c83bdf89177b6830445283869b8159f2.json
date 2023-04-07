@@ -1,0 +1,106 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/quyen-luc-dich-thuc_19259.html",
+    "title" : "Quyền Lực Đích Thực",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 25216,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_c83bdf89177b6830445283869b8159f2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_c83bdf89177b6830445283869b8159f2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quyen-luc-1/quyen-luc-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "quyen-luc-1"
+  }, {
+    "href" : "https://archive.org/download/quyen-luc-1/quyen-luc-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "quyen-luc-2"
+  }, {
+    "href" : "https://archive.org/download/quyen-luc-1/quyen-luc-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "quyen-luc-3"
+  }, {
+    "href" : "https://archive.org/download/quyen-luc-1/quyen-luc-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "quyen-luc-4"
+  }, {
+    "href" : "https://archive.org/download/quyen-luc-1/quyen-luc-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "quyen-luc-5"
+  }, {
+    "href" : "https://archive.org/download/quyen-luc-1/quyen-luc-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "quyen-luc-6"
+  }, {
+    "href" : "https://archive.org/download/quyen-luc-1/quyen-luc-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1816,
+    "title" : "quyen-luc-7"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quyen-luc-1/quyen-luc-1.mp3",
+    "title" : "quyen-luc-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quyen-luc-1/quyen-luc-2.mp3",
+    "title" : "quyen-luc-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quyen-luc-1/quyen-luc-3.mp3",
+    "title" : "quyen-luc-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quyen-luc-1/quyen-luc-4.mp3",
+    "title" : "quyen-luc-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quyen-luc-1/quyen-luc-5.mp3",
+    "title" : "quyen-luc-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quyen-luc-1/quyen-luc-6.mp3",
+    "title" : "quyen-luc-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quyen-luc-1/quyen-luc-7.mp3",
+    "title" : "quyen-luc-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

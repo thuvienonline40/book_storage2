@@ -1,0 +1,126 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-dem-chau-chau_19832.html",
+    "title" : "Những Đêm Châu Chấu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thuý Loan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 16776,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_4d052ea8f0c097ccb9b4507a42666e4f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_4d052ea8f0c097ccb9b4507a42666e4f.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhung-dem-chau-chau.sna/NHUNG_DEM_CHAU_CHAU-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2716,
+    "title" : "NHUNG DEM CHAU CHAU-01"
+  }, {
+    "href" : "https://archive.org/download/nhung-dem-chau-chau.sna/NHUNG_DEM_CHAU_CHAU-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1531,
+    "title" : "NHUNG DEM CHAU CHAU-02"
+  }, {
+    "href" : "https://archive.org/download/nhung-dem-chau-chau.sna/NHUNG_DEM_CHAU_CHAU-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1656,
+    "title" : "NHUNG DEM CHAU CHAU-03"
+  }, {
+    "href" : "https://archive.org/download/nhung-dem-chau-chau.sna/NHUNG_DEM_CHAU_CHAU-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1943,
+    "title" : "NHUNG DEM CHAU CHAU-04"
+  }, {
+    "href" : "https://archive.org/download/nhung-dem-chau-chau.sna/NHUNG_DEM_CHAU_CHAU-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1934,
+    "title" : "NHUNG DEM CHAU CHAU-05"
+  }, {
+    "href" : "https://archive.org/download/nhung-dem-chau-chau.sna/NHUNG_DEM_CHAU_CHAU-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1613,
+    "title" : "NHUNG DEM CHAU CHAU-06"
+  }, {
+    "href" : "https://archive.org/download/nhung-dem-chau-chau.sna/NHUNG_DEM_CHAU_CHAU-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1748,
+    "title" : "NHUNG DEM CHAU CHAU-07"
+  }, {
+    "href" : "https://archive.org/download/nhung-dem-chau-chau.sna/NHUNG_DEM_CHAU_CHAU-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1731,
+    "title" : "NHUNG DEM CHAU CHAU-08"
+  }, {
+    "href" : "https://archive.org/download/nhung-dem-chau-chau.sna/NHUNG_DEM_CHAU_CHAU-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1904,
+    "title" : "NHUNG DEM CHAU CHAU-09"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhung-dem-chau-chau.sna/NHUNG_DEM_CHAU_CHAU-01.mp3",
+    "title" : "NHUNG DEM CHAU CHAU-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-dem-chau-chau.sna/NHUNG_DEM_CHAU_CHAU-02.mp3",
+    "title" : "NHUNG DEM CHAU CHAU-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-dem-chau-chau.sna/NHUNG_DEM_CHAU_CHAU-03.mp3",
+    "title" : "NHUNG DEM CHAU CHAU-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-dem-chau-chau.sna/NHUNG_DEM_CHAU_CHAU-04.mp3",
+    "title" : "NHUNG DEM CHAU CHAU-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-dem-chau-chau.sna/NHUNG_DEM_CHAU_CHAU-05.mp3",
+    "title" : "NHUNG DEM CHAU CHAU-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-dem-chau-chau.sna/NHUNG_DEM_CHAU_CHAU-06.mp3",
+    "title" : "NHUNG DEM CHAU CHAU-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-dem-chau-chau.sna/NHUNG_DEM_CHAU_CHAU-07.mp3",
+    "title" : "NHUNG DEM CHAU CHAU-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-dem-chau-chau.sna/NHUNG_DEM_CHAU_CHAU-08.mp3",
+    "title" : "NHUNG DEM CHAU CHAU-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-dem-chau-chau.sna/NHUNG_DEM_CHAU_CHAU-09.mp3",
+    "title" : "NHUNG DEM CHAU CHAU-09",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
