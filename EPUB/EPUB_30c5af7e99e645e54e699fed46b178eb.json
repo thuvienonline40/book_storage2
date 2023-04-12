@@ -1,0 +1,166 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dan-than_20009.html",
+    "title" : "Dấn Thân",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sheryl Sandberg",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-12",
+    "duration" : 22476,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/EPUB/EPUB_30c5af7e99e645e54e699fed46b178eb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage2/main/IMAGE/IMAGE_30c5af7e99e645e54e699fed46b178eb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dan-than.sna/00.GioiThieu_DanThan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1757,
+    "title" : "00.GioiThieu DanThan"
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/01.C01_KhoangTrongThamVonglanhDao_DanThan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1816,
+    "title" : "01.C01 KhoangTrongThamVonglanhDao DanThan"
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/02.C02_HC_NgoiVaoBan_DanThan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1379,
+    "title" : "02.C02 HC NgoiVaoBan DanThan"
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/03.C03_ThanhCongVaYeuQuy_DanThan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1552,
+    "title" : "03.C03 ThanhCongVaYeuQuy DanThan"
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/04.C04_KhungLeoTreoThayTheChiecThang_DanThan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1701,
+    "title" : "04.C04 KhungLeoTreoThayTheChiecThang DanThan"
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/05.C05_BanCoPhaiCoVanCuaToi_DanThan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1587,
+    "title" : "05.C05 BanCoPhaiCoVanCuaToi DanThan"
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/06.C06_TimSuThatVaNoiLenSuThat_DanThan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1808,
+    "title" : "06.C06 TimSuThatVaNoiLenSuThat DanThan"
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/07.C07_DungTuBoChinhThucDuocRutLui_DanThan%20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1485,
+    "title" : "07.C07 DungTuBoChinhThucDuocRutLui DanThan "
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/07.C07_DungTuBoChinhThucDuocRutLui_DanThan_.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1485,
+    "title" : "07.C07 DungTuBoChinhThucDuocRutLui DanThan "
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/08.C08_BanDoiPhaiThatSuLaBanDoi_DanThan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2020,
+    "title" : "08.C08 BanDoiPhaiThatSuLaBanDoi DanThan"
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/09.C09_HoangTuongVeNguoiDaNang_DanThan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2125,
+    "title" : "09.C09 HoangTuongVeNguoiDaNang DanThan"
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/10.C10_HayBatDauThaoLuan_DanThan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2133,
+    "title" : "10.C10 HayBatDauThaoLuan DanThan"
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/11.C11_Het_ChungTayViMotTheGioiBinhDang_DanThan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1628,
+    "title" : "11.C11 Het ChungTayViMotTheGioiBinhDang DanThan"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dan-than.sna/00.GioiThieu_DanThan.mp3",
+    "title" : "00.GioiThieu DanThan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/01.C01_KhoangTrongThamVonglanhDao_DanThan.mp3",
+    "title" : "01.C01 KhoangTrongThamVonglanhDao DanThan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/02.C02_HC_NgoiVaoBan_DanThan.mp3",
+    "title" : "02.C02 HC NgoiVaoBan DanThan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/03.C03_ThanhCongVaYeuQuy_DanThan.mp3",
+    "title" : "03.C03 ThanhCongVaYeuQuy DanThan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/04.C04_KhungLeoTreoThayTheChiecThang_DanThan.mp3",
+    "title" : "04.C04 KhungLeoTreoThayTheChiecThang DanThan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/05.C05_BanCoPhaiCoVanCuaToi_DanThan.mp3",
+    "title" : "05.C05 BanCoPhaiCoVanCuaToi DanThan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/06.C06_TimSuThatVaNoiLenSuThat_DanThan.mp3",
+    "title" : "06.C06 TimSuThatVaNoiLenSuThat DanThan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/07.C07_DungTuBoChinhThucDuocRutLui_DanThan%20.mp3",
+    "title" : "07.C07 DungTuBoChinhThucDuocRutLui DanThan ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/07.C07_DungTuBoChinhThucDuocRutLui_DanThan_.mp3",
+    "title" : "07.C07 DungTuBoChinhThucDuocRutLui DanThan ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/08.C08_BanDoiPhaiThatSuLaBanDoi_DanThan.mp3",
+    "title" : "08.C08 BanDoiPhaiThatSuLaBanDoi DanThan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/09.C09_HoangTuongVeNguoiDaNang_DanThan.mp3",
+    "title" : "09.C09 HoangTuongVeNguoiDaNang DanThan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/10.C10_HayBatDauThaoLuan_DanThan.mp3",
+    "title" : "10.C10 HayBatDauThaoLuan DanThan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-than.sna/11.C11_Het_ChungTayViMotTheGioiBinhDang_DanThan.mp3",
+    "title" : "11.C11 Het ChungTayViMotTheGioiBinhDang DanThan",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
