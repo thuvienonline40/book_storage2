@@ -1,0 +1,190 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/naruto",
+    "title" : "Naruto",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 711,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://sv1.olalatruyen.xyz/truyenvncom/images/2019/10/20/ee498e0106f9d551abdd60d3e3413641.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://sv1.olalatruyen.xyz/truyenvncom/images/2019/10/20/af452a5aaf650df93ab8eb23c2c4c289.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://sv1.olalatruyen.xyz/truyenvncom/images/2019/10/20/a1a03787e4a684add81c84ca15cbc96a.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://sv1.olalatruyen.xyz/truyenvncom/images/2019/10/20/6f271387f5fc85a898f9f29d57bcf23e.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://sv1.olalatruyen.xyz/truyenvncom/images/2019/10/20/deecb91fc75e82f8885c8c870f850721.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://sv1.olalatruyen.xyz/truyenvncom/images/2019/10/20/f504e1286c53cc9dbb125eb821e86749.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://sv1.olalatruyen.xyz/truyenvncom/images/2019/10/20/bada57f6614ab32deb0a35a59ab9eee9.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://sv1.olalatruyen.xyz/truyenvncom/images/2019/10/20/1363d8e962167e00db806496beeb2608.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://sv1.olalatruyen.xyz/truyenvncom/images/2019/10/20/fa5b50158d1ad530494aef414efa6f55.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://sv1.olalatruyen.xyz/truyenvncom/images/2019/10/20/46af9ea96c43c5e29159642e4c2ce050.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://sv1.olalatruyen.xyz/truyenvncom/images/2019/10/20/65be92f28996390c8d33a3beaf593a55.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://sv1.olalatruyen.xyz/truyenvncom/images/2019/10/20/ca50e0560ad52846ba295b461fdc455c.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://sv1.olalatruyen.xyz/truyenvncom/images/2019/10/20/234e164b9f626d7fb7b8db7381e1f57c.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://sv1.olalatruyen.xyz/truyenvncom/images/2019/10/20/48dadb49845beddb7279478dc0617508.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://sv1.olalatruyen.xyz/truyenvncom/images/2019/10/20/dae3d96140f5d5e953decc5911a0950b.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://sv1.olalatruyen.xyz/truyenvncom/images/2019/10/20/765ab0bdd2e275143231e7f1a5f45c0b.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://sv1.olalatruyen.xyz/truyenvncom/images/2019/10/20/8f63eac422c728f64430909b8bcd52f6.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://sv1.olalatruyen.xyz/truyenvncom/images/2019/10/20/2a17c45de3b385a8217c75fe44b94ee1.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://sv1.olalatruyen.xyz/truyenvncom/images/2019/10/20/6b42838b4503c2694b7bb23911093525.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://sv1.olalatruyen.xyz/truyenvncom/images/2019/10/20/941a2b26c4d0ee948bc3ba04b7f843a0.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://sv1.olalatruyen.xyz/truyenvncom/images/2019/10/20/2dd0968bef10e4f54a22eef16de5fd70.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
